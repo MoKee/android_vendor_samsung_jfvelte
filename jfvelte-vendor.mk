@@ -21,12 +21,12 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/jfvelte/proprietary/cameradata/RS_M10MO_OS.bin:system/cameradata/RS_M10MO_OS.bin \
     vendor/samsung/jfvelte/proprietary/cameradata/RS_M10MO_SL.bin:system/cameradata/RS_M10MO_SL.bin \
     vendor/samsung/jfvelte/proprietary/cameradata/RS_M10MO_SS.bin:system/cameradata/RS_M10MO_SS.bin \
-    vendor/samsung/jfvelte/proprietary/vendor/bin/btnvtool:$(TARGET_COPY_OUT_VENDOR)/bin/btnvtool \
     vendor/samsung/jfvelte/proprietary/vendor/bin/hci_qcomm_init:$(TARGET_COPY_OUT_VENDOR)/bin/hci_qcomm_init \
     vendor/samsung/jfvelte/proprietary/vendor/bin/mm-qcamera-daemon:$(TARGET_COPY_OUT_VENDOR)/bin/mm-qcamera-daemon \
     vendor/samsung/jfvelte/proprietary/vendor/lib/hw/camera.vendor.msm8960.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/camera.vendor.msm8960.so \
     vendor/samsung/jfvelte/proprietary/vendor/lib/libacdbloader.so:$(TARGET_COPY_OUT_VENDOR)/lib/libacdbloader.so \
     vendor/samsung/jfvelte/proprietary/vendor/lib/libaudcal.so:$(TARGET_COPY_OUT_VENDOR)/lib/libaudcal.so \
+    vendor/samsung/jfvelte/proprietary/vendor/lib/libbtnv.so:$(TARGET_COPY_OUT_VENDOR)/lib/libbtnv.so \
     vendor/samsung/jfvelte/proprietary/vendor/lib/libchromatix_imx074_default_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx074_default_video.so \
     vendor/samsung/jfvelte/proprietary/vendor/lib/libchromatix_imx074_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx074_preview.so \
     vendor/samsung/jfvelte/proprietary/vendor/lib/libchromatix_imx074_video_hd.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx074_video_hd.so \
